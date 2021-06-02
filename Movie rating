@@ -22,7 +22,7 @@ import requests
 
 name = sys.argv[1]
 
-apikey = "f46744fc"
+apikey = "c9cccfe4"
 
 path = "http://omdbapi.com/?t=" + name + "&apikey=" + apikey
 
